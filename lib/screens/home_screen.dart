@@ -91,7 +91,7 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: [
-                            const Text("Karim Ellozy",
+                            const Text("Karim hasanen",
                                 style: TextStyle(
                                     fontSize: 30, color: Colors.white)),
                             Row(
